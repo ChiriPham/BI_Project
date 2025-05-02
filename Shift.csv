@@ -1,0 +1,7 @@
+﻿No,ShiftCode,ShiftName,Description,FromHours,ToHours
+1,1a,Shift 1,1,8:00,12:00
+2,1b,Shift 1,1,12:00,16:00
+3,2a,Shift 2,2,16:00,20:00
+4,2b,Shift 2,2,20:00,0:00
+5,3a,Shift 3,3,0:00,4:00
+6,3b,Shift 3,3,4:00,8:00
